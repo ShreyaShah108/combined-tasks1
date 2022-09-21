@@ -1,3 +1,6 @@
 [submodule "My-CV2"]
 	path = My-CV2
 	url = https://github.com/ShreyaShah108/My-CV2.git
+[submodule "Design-1"]
+	path = Design-1
+	url = https://github.com/ShreyaShah108/Design-1.git
